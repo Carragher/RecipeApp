@@ -14,5 +14,6 @@ namespace Recipe_App // Note: actual namespace depends on the project name.
                 webHost.UseStartup<Startup>();
             });
         }
+        
     }
 }

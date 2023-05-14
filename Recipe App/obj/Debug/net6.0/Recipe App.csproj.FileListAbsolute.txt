@@ -4,3 +4,21 @@ C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.AssemblyInfoInput
 C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.AssemblyInfo.cs
 C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.csproj.CoreCompileInputs.cache
 C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.MvcApplicationPartsAssemblyInfo.cache
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Recipe App.exe
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Recipe App.deps.json
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Recipe App.runtimeconfig.json
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Recipe App.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Recipe App.pdb
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\staticwebassets\msbuild.Recipe App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\staticwebassets\msbuild.build.Recipe App.props
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Recipe App.props
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Recipe App.props
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\scopedcss\bundle\Recipe App.styles.css
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.dll
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\refint\Recipe App.dll
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.pdb
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.genruntimeconfig.cache
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\ref\Recipe App.dll

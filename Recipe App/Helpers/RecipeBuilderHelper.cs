@@ -17,7 +17,7 @@ namespace Recipe_App.Helpers
 
         public string BuildRecipeTitle()
         {
-
+            throw new NotImplementedException();
         }
 
 
