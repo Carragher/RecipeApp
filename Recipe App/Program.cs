@@ -1,10 +1,18 @@
-﻿namespace Recipe_App // Note: actual namespace depends on the project name.
+﻿using Microsoft.AspNetCore.Hosting;
+
+namespace Recipe_App // Note: actual namespace depends on the project name.
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            CreateHostBuilder().Build().Run();
+        }
+        public static IHostBuilder CreateHostBuilder()
+        {
+            return Host.CreateDefaultBuilder().ConfigureWebHostDefaults(webHost => {
+                webHost.UseStartup<Startup>();
+            });
         }
     }
 }

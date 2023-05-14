@@ -1,0 +1,6 @@
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.csproj.AssemblyReference.cache
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.AssemblyInfoInputs.cache
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.AssemblyInfo.cs
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.csproj.CoreCompileInputs.cache
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.MvcApplicationPartsAssemblyInfo.cache

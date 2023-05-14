@@ -3,5 +3,7 @@
 public class RecipeInstructionContainer
 {
     public string InstructionTitle { get; set; }
-    public
+    public int InstructionId { get; set; }
+    public List<RecipeInstruction> Instructions { get; set; }
+
 }
