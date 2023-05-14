@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EOHKMmbZNHmruTs9s59p7mPx/+5fQHUSSSK1EuO1iRYmoW77D85YxsFJp94LpCYRBQNLT1nQk1wgOeCoRi0/4A==",
+  "dgSpecHash": "M7/U0MX/L5uhpll1XpHRxSLnjcszJ8v4QAOsM8SOf0hL6xEOX9vVJyM387gsh3A2Uu+l2wN4dt7YANOjezn17w==",
   "success": true,
-  "projectFilePath": "C:\\Code Projects\\Recipe App\\Recipe App\\Recipe App.csproj",
+  "projectFilePath": "C:\\Recipe App\\RecipeApp\\Recipe App\\Recipe App.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
