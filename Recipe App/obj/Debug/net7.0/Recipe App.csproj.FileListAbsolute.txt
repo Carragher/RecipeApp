@@ -1,0 +1,40 @@
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\web.config
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Recipe App.exe
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Recipe App.deps.json
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Recipe App.runtimeconfig.json
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Recipe App.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Recipe App.pdb
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\AWSSDK.DynamoDBv2.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\System.Web.Http.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\System.Web.Http.WebHost.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\Swashbuckle.Core.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net7.0\WebActivatorEx.dll
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\Recipe App.csproj.AssemblyReference.cache
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\Recipe App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\Recipe App.AssemblyInfoInputs.cache
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\Recipe App.AssemblyInfo.cs
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\Recipe App.csproj.CoreCompileInputs.cache
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\Recipe App.MvcApplicationPartsAssemblyInfo.cs
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\Recipe App.MvcApplicationPartsAssemblyInfo.cache
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\staticwebassets\msbuild.Recipe App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\staticwebassets\msbuild.build.Recipe App.props
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Recipe App.props
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Recipe App.props
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\staticwebassets.build.json
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\staticwebassets.development.json
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\scopedcss\bundle\Recipe App.styles.css
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\Recipe App.csproj.CopyComplete
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\Recipe App.dll
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\refint\Recipe App.dll
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\Recipe App.pdb
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\Recipe App.genruntimeconfig.cache
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net7.0\ref\Recipe App.dll
