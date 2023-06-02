@@ -1,19 +1,28 @@
 ﻿using Microsoft.AspNetCore.Hosting;
 
-namespace Recipe_App // Note: actual namespace depends on the project name.
+var builder = WebApplication.CreateBuilder(args);
+var config = builder.Configuration;
+builder.Services.AddMvcCore()
+    .AddApiExplorer();
+builder.Services.AddSwaggerGen();
+var app = builder.Build();
+
+if (app.Environment.IsDevelopment())
 {
-    public class Program
-    {
-        static void Main()
-        {
-            CreateHostBuilder().Build().Run();
-        }
-        public static IHostBuilder CreateHostBuilder()
-        {
-            return Host.CreateDefaultBuilder().ConfigureWebHostDefaults(webHost => {
-                webHost.UseStartup<Startup>();
-            });
-        }
-        
-    }
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+app.UseRouting();
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+});
+app.Run();
+
+
+
+
+

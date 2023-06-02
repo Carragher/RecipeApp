@@ -22,3 +22,19 @@ C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\refint\Recipe App.dll
 C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.pdb
 C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.genruntimeconfig.cache
 C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\ref\Recipe App.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\web.config
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\AWSSDK.DynamoDBv2.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.csproj.CopyComplete
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\System.Web.Http.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\System.Web.Http.WebHost.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Swashbuckle.Core.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\WebActivatorEx.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Recipe App\RecipeApp\Recipe App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Recipe App\RecipeApp\Recipe App\obj\Debug\net6.0\Recipe App.MvcApplicationPartsAssemblyInfo.cs

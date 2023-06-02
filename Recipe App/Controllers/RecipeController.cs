@@ -1,5 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Amazon.DynamoDBv2;
+using Amazon.DynamoDBv2.DataModel;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Recipe_App.Models.DynamoDbModels;
 
 namespace Recipe_App.Controllers
 {
@@ -8,9 +11,23 @@ namespace Recipe_App.Controllers
     public class RecipeController : ControllerBase
     {
 
-        public string SayHi()
+        private readonly static AmazonDynamoDBClient DynamoClient = new AmazonDynamoDBClient();
+
+        [HttpGet]
+        public async Task<IActionResult> SayHi()
         {
-            return "I did the thing";
+            try
+            {
+                DynamoDBContext context = new DynamoDBContext(DynamoClient);
+                DynamoRecipe returnMe = await context.LoadAsync<DynamoRecipe>(1);
+                return Ok(returnMe);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
+
         }
 
 
