@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vYVVmjdHhT3dmAeCaigoberFymp3+6FXmygmUM2Jzf4p1SvxPDE3bFD5fDwFUjBrKEbfTPPi86NQxqwS8b+eUw==",
+  "dgSpecHash": "opZhpCh3Y5yowqhl7EcPLHKCB9qsJ2kZMTTPAB+hNrWgHTeXwpLNwRwEK651auR4bYPSQeISgxYNOEw3dX7FcA==",
   "success": true,
   "projectFilePath": "C:\\Recipe App\\RecipeApp\\Recipe App\\Recipe App.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\awssdk.core\\3.7.106.35\\awssdk.core.3.7.106.35.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.103.3\\awssdk.dynamodbv2.3.7.103.3.nupkg.sha512"
+  ],
   "logs": []
 }
