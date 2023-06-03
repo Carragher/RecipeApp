@@ -20,6 +20,7 @@ namespace Recipe_App.Controllers
             {
                 DynamoDBContext context = new DynamoDBContext(DynamoClient);
                 DynamoRecipe returnMe = await context.LoadAsync<DynamoRecipe>(1);
+                
                 return Ok(returnMe);
             }
             catch (Exception e)
