@@ -3,14 +3,12 @@
 
 namespace Recipe_App.Models.DynamoDbModels
 {
-    [DynamoDBTable("Recipe")]
+    [DynamoDBTable("Recipes")]
     public class DynamoRecipe
     {
-        [DynamoDBHashKey("RecipeId")]
-        public int Id { get; set; }
 
         [DynamoDBProperty("DateCreated")]
-        public string DateCreated { get; set; }
+        public int DateCreated { get; set; }
 
         [DynamoDBProperty("Description")]
         public string Description { get; set; }
@@ -21,7 +19,7 @@ namespace Recipe_App.Models.DynamoDbModels
         [DynamoDBProperty("Note")]
         public string Note { get; set; }
 
-        [DynamoDBProperty("RecipeName")]
+        [DynamoDBHashKey("RecipeName")]
         public string Name { get; set; }
 
 

@@ -20,15 +20,39 @@ namespace Recipe_App.Controllers
             {
                 DynamoDBContext context = new DynamoDBContext(DynamoClient);
                 DynamoRecipe returnMe = await context.LoadAsync<DynamoRecipe>(1);
-                
+                context.Dispose();
                 return Ok(returnMe);
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
-                throw;
+                return StatusCode(500);
             }
 
+        }
+        
+
+        [HttpGet]
+        public async Task<IActionResult> ReadRecipe(string recipeName)
+        {
+            try
+            {
+                DynamoDBContext context = new DynamoDBContext(DynamoClient);
+
+                DynamoRecipe recipe = await context.LoadAsync<DynamoRecipe>("MyTestRecipe");
+                List<DynamoRecipeIngredient> ingredients =
+                    await context.QueryAsync<DynamoRecipeIngredient>("MyTestRecipe").GetRemainingAsync();
+                List<DynamoRecipeInstruction> instructions =
+                    await context.QueryAsync<DynamoRecipeInstruction>("MyTestRecipe").GetRemainingAsync();
+                DynamoRecipeTimeCard recipeTimeCard = await context.LoadAsync<DynamoRecipeTimeCard>("MyTestRecipe");
+
+                throw new NotImplementedException();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                return StatusCode(500);
+            }
         }
 
 
