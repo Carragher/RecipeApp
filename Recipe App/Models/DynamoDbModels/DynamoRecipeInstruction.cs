@@ -8,7 +8,7 @@ namespace Recipe_App.Models.DynamoDbModels
         [DynamoDBHashKey("RecipeName")]
         public string RecipeName { get; set; }
         [DynamoDBProperty("InstructionNumber")]
-        public string InstructionNumber { get; set; }
+        public int InstructionNumber { get; set; }
         [DynamoDBProperty("InstructionText")]
         public string InstructionText { get; set; }
 

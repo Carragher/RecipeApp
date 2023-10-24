@@ -19,8 +19,12 @@ namespace Recipe_App.Models.DynamoDbModels
         [DynamoDBProperty("Note")]
         public string Note { get; set; }
 
+        [DynamoDBProperty("Author")]
+        public string Author { get; set; }
+
+
         [DynamoDBHashKey("RecipeName")]
-        public string Name { get; set; }
+        public string RecipeName { get; set; }
 
 
     }
